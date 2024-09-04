@@ -1,4 +1,4 @@
-# DevOps_Angular
+# DevOps-Angular
 
 This is a simple Angular application that displays the current URL and port on the home page.
 
@@ -21,7 +21,7 @@ Before you begin, ensure you have the following installed:
 
 ```bash
 git clone https://github.com/Phase121/DevOps_Angular.git
-cd DevOps_Angular
+cd DevOps-Angular
 ```
 
 ### Install Dependencies
